@@ -1,0 +1,9 @@
+#error,#error2{
+    color: red;
+}
+#name{
+    margin-left: 12px;
+}
+#error,#error2{
+    margin-left: 60px;
+}
